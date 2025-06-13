@@ -1,8 +1,8 @@
 {
-  "personalia": {
-    "naam": "Bauke Koen Olivier Arends",
+  "basics": {
+    "name": "Bauke Koen Olivier Arends",
     "image": "",
-    "e-mail": "baukearends@gmail.com",
+    "email": "baukearends@gmail.com",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "profiles": [
       {
@@ -11,7 +11,7 @@
       }
     ]
   },
-  "werkervaring": [
+  "work": [
     {
       "name": "Universitair Medisch Centrum Utrecht",
       "position": "Arts-onderzoeker Cardiologie",
@@ -29,7 +29,7 @@
       "highlights": ["Opleider: J.R. Timmer"]
     }
   ],
-  "opleiding": [
+  "education": [
     {
       "institution": "Rijksuniversiteit Groningen",
       "location": "Groningen, Nederland",
