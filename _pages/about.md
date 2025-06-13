@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "*Cardiology AI researcher at University Medical Center Utrecht*"
+subtitle: "<em>Cardiology&nbsp;AI&nbsp;researcher at University&nbsp;Medical&nbsp;Center&nbsp;Utrecht</em>"
 
 profile:
   align: right
