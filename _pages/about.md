@@ -6,7 +6,7 @@ subtitle: \*Cardiology AI researcher at University Medical Center Utrecht\*
 
 profile:
   align: right
-  image: Foto Bauke Arends.jpg
+  image: Foto_Bauke_Arends.jpg
   image_circular: true # crops the image to make it circular
   address:
 
