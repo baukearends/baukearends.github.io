@@ -1,10 +1,9 @@
 github_users:
   - baukearends
-  - UMCUtrecht-ECGxAI
 
 repo_description_lines_max: 2
 
 github_repos:
   - UMCUtrecht-ECGxAI/ecgxai 
-  - UMCUtrecht-ECGxAI/attribution-evaluation
+  # - UMCUtrecht-ECGxAI/attribution-evaluation
   - baukearends/literature_bot
