@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "*Cardiology AI researcher at University Medical Center Utrecht*"
+subtitle: ""
 
 profile:
   align: right
@@ -13,6 +13,7 @@ profile:
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+*Cardiology AI researcher at University Medical Center Utrecht*
 
 My research focuses on deep learning methods for the electrocardiogram (AI-ECG), where I build and validate models that can immediately improve patient care, from pre-hospital triage to long-term risk prediction. Drawing from my background in medicine, health economics and machine learning, my work encompasses all steps of model development, including preprocessing, model development, methodological research, and implementation research.
 
@@ -25,4 +26,4 @@ Current research interests include:
 
 Check out my [list of publications](/publications), [CV](/cv) and [GitHub page](https://www.github.com/baukarends).
 
-The best way to contact me is by e-mail: [baukearends at gmail dot com](mailto:baukearends@gmail.com)
+The best way to contact me is by e-mail: [b.k.arends-4 at umcutrecht dot nl](mailto:b.k.o.arends-4@umcutrecht.nl)
