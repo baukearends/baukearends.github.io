@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<em>Cardiology&nbsp;AI&nbsp;researcher at University&nbsp;Medical&nbsp;Center&nbsp;Utrecht</em>"
+subtitle: "*Cardiology AI researcher at University Medical Center Utrecht*"
 
 profile:
   align: right
@@ -23,6 +23,6 @@ Current research interests include:
 - Occlusion myocardial infarction detection
 - AI-ECG attribution method evaluation
 
-Check out my [list of publications](/publications) and [CV](/cv).
+Check out my [list of publications](/publications), [CV](/cv) and [GitHub page](https://www.github.com/baukarends).
 
 The best way to contact me is by e-mail: [baukearends at gmail dot com](mailto:baukearends@gmail.com)
