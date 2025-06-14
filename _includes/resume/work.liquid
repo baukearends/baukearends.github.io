@@ -5,8 +5,8 @@
       <div class="row">
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
           {% if content.startDate %}
-            {% assign startDate = content.startDate | date: "%B %Y" %}
-            {% assign endDate = content.endDate | date: "%B %Y" %}
+            {% assign startDate = content.startDate | date: "%b %Y" %}
+            {% assign endDate = content.endDate | date: "%b %Y" %}
             {% if content.endDate == nil %}
               {% assign endDate = "Present" %}
             {% endif %}
